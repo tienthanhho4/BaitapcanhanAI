@@ -1,4 +1,3 @@
-# BaitapcanhanAI
 8-Puzzle Solver - Bài tập Cá nhân AI
 1. Mục tiêu
 Trong đồ án cá nhân, các nhóm thuật toán tìm kiếm trong Trí tuệ nhân tạo được nghiên cứu và áp dụng nhằm giải quyết bài toán 8-puzzle – một bài toán cổ điển thể hiện rõ đặc trưng của việc tìm kiếm lời giải trong không gian trạng thái. Cụ thể, đề tài tập trung vào 6 nhóm thuật toán chính:
@@ -149,56 +148,6 @@ Nhận xét:
 
 Q-Learning truyền thống không phải là phương pháp tối ưu cho bài toán 8-puzzle do không gian trạng thái lớn và phức tạp. Thuật toán này có thể học được chính sách giải nhưng thường rất chậm và tốn nhiều tài nguyên. Các phương pháp kết hợp học sâu hoặc thuật toán heuristic đặc thù thường được ưu tiên hơn trong nhóm trò chơi 8-puzzle.
 
-3. Yêu cầu cài đặt
+3. Tác giả
 
-Python 3.8+
-Pygame: Thư viện để hiển thị giao diện đồ họa.
-NumPy: Dùng cho một số thuật toán.
-Pandas: Dùng để hiển thị thông tin hiệu suất.
-
-Cài đặt các thư viện bằng lệnh:
-pip install pygame numpy pandas
-
-4. Cách sử dụng
-4.1. Chạy chương trình
-
-Tải mã nguồn về máy và đảm bảo các thư viện đã được cài đặt.
-Mở terminal và chạy file chính:
-
-python 8-Puzzle.py
-
-4.2. Giao diện chính
-
-Màn hình chọn trạng thái ban đầu: Nhấp vào các ô để hoán đổi số, nhấn "Start" để chuyển sang màn hình giải.
-Màn hình giải:
-Initial State: Trạng thái ban đầu, hiển thị ở góc trái trên.
-Goal State: Trạng thái mục tiêu, hiển thị ngay dưới Initial State.
-Lưới chính: Quá trình giải từng bước ở trung tâm.
-Nút thuật toán: Các nút chọn thuật toán ở bên phải (2 cột).
-Thông tin hiệu suất: Thời gian ("Time") và số bước ("Steps") ở góc trái dưới.
-Nút điều khiển: 5 nút ("Back", "Reset", "View Stats", "Show Info", "Reset Chart") ở dưới cùng.
-
-
-
-4.3. Chức năng
-
-Chọn thuật toán: Nhấp vào nút thuật toán để chạy và xem giải pháp.
-Xem hiệu suất: Nhấn "View Stats" để xem thông tin hiệu suất.
-Reset: Nhấn "Reset" để đặt lại trạng thái.
-Quay lại: Nhấn "Back" để quay về màn hình chọn trạng thái.
-Xem thông tin: Nhấn "Show Info" để mở file algorithm_info.txt.
-Xóa biểu đồ: Nhấn "Reset Chart" để xóa dữ liệu hiệu suất.
-
-5. Lưu ý
-
-Chương trình yêu cầu môi trường đồ họa để chạy (không chạy trên terminal thuần).
-File algorithm_info.txt sẽ tự động tạo để lưu thông tin hiệu suất.
-Một số thuật toán (như Belief Search, PartObs) hiện ở trạng thái giả lập, cần cập nhật logic thực tế để tối ưu.
-
-6. Tác giả
-
-Được phát triển bởi [Tên của bạn hoặc nhóm của bạn].
-Ngày hoàn thành: 18/05/2025, 08:32 PM +07.
-
-7. Liên hệ
-Nếu có thắc mắc, vui lòng liên hệ qua [email của bạn] hoặc tạo issue trên repository này.
+Được phát triển bởi Hồ Miinh Tiến Thành.

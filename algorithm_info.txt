@@ -1,0 +1,120 @@
+
+=== Algorithm Performance Info ===
+Algorithm: BFS
+Run time: 0.72 ms
+Steps: 2
+States Explored: 9
+Path Length: 2
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: SA
+Run time: 0.08 ms
+Steps: 2
+States Explored: 2
+Path Length: 2
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: Beam
+Run time: 0.14 ms
+Steps: 2
+States Explored: 5
+Path Length: 2
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: BFS
+Run time: 1.91 ms
+Steps: 7
+States Explored: 167
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: DFS
+Run time: 997.33 ms
+Steps: 0
+States Explored: 155829
+Path Length: 0
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: DFS
+Run time: 1030.83 ms
+Steps: 0
+States Explored: 155829
+Path Length: 0
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: SA
+Run time: 16.78 ms
+Steps: 7
+States Explored: 7
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: UCS
+Run time: 1.21 ms
+Steps: 7
+States Explored: 119
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: A*
+Run time: 0.16 ms
+Steps: 7
+States Explored: 8
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: IDA*
+Run time: 0.17 ms
+Steps: 7
+States Explored: 11
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: A*
+Run time: 0.25 ms
+Steps: 7
+States Explored: 8
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: A*
+Run time: 0.33 ms
+Steps: 7
+States Explored: 8
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: A*
+Run time: 0.17 ms
+Steps: 7
+States Explored: 8
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: UCS
+Run time: 0.81 ms
+Steps: 7
+States Explored: 119
+Path Length: 7
+------------------------------
+
+=== Algorithm Performance Info ===
+Algorithm: QLearn
+Run time: 166.17 ms
+Steps: 7
+States Explored: 11081
+Path Length: 7
+------------------------------
